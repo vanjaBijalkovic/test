@@ -1,0 +1,13 @@
+bcrypt
+flask-collect
+flask-jwt-extended
+flask-rest-api
+flask-security
+gunicorn
+marshmallow
+peewee-migrate
+keepa
+psycopg2
+flask_cors
+flask_smorest
+lxml
